@@ -103,8 +103,3 @@ class Person
 end
 
 
-# eben = Person.new("eben", 21, 8, 8)
-# juan = Person.new("Juan", 25, 7, 9)
-#
-# eben.call_friend("Juan")
-# # binding.pry
